@@ -1,7 +1,8 @@
 # Robotics_Work_13_July
 Friday work using 2 ir sensor with one buzzer
 # Arduino Distance Detection System
-![Exquisite Juttuli (3)](https://github.com/user-attachments/assets/435283b6-8fbd-48d5-84cf-365204553d5e)
+![Exquisite Esboo (1)](https://github.com/user-attachments/assets/cc77b104-b86d-49ae-9e87-343074c8a6fa)
+
 
 ## Overview
 This project implements a distance detection system using an Arduino Uno that reads signals from two input sensors and provides different responses based on the combination of sensor states. The system categorizes distances into four levels and controls an output device accordingly.
